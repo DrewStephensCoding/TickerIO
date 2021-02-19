@@ -3,10 +3,12 @@
 *Made with love ❤️ by [Drew](https://github.com/DrewStephensCoding)*
 
 ## Built With 🛠
+- [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
+- [Cyanea](https://github.com/jaredrummler/Cyanea) - A powerful, dynamic, and fun theme engine for Android
+- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
-
-
-
+## Join the Discussion
+If you'd like to contribute to this app, or offer ways of improvement to the developer, take a look at our [discussion board](https://github.com/DrewStephensCoding/TickerIO/discussions/1).
 
 
 ## License
