@@ -4,6 +4,9 @@
 **TickerIO** A minimalistic clock app built to quickly display the local date and time as well as the Universal Coordinated time, or Zulu military time. It started off as a project while deployed to the Middle East several years ago, and quickly became a side hobby for me.  I'm a self-taught developer and looking to expand my knowledge and skillset
 *Made with love ❤️ by [Drew](https://github.com/DrewStephensCoding)*
 
+***Try latest TickerIO app apk from below 👇***
+**Coming soon, please check back for more details!
+
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Cyanea](https://github.com/jaredrummler/Cyanea) - A powerful, dynamic, and fun theme engine for Android
