@@ -8,6 +8,7 @@
 ***Try latest TickerIO app apk from below 👇***
 
 **Coming soon, please check back for more details!
+**Icons made by [FlatIcon](https://www.flaticon.com/)
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
