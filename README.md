@@ -6,9 +6,7 @@
 *Made with love ❤️ by [Drew](https://github.com/DrewStephensCoding)*
 
 ***Try latest TickerIO app apk from below 👇***
-
-**Coming soon, please check back for more details!
-**Icons made by [FlatIcon](https://www.flaticon.com/)
+[![TickerIO](https://github.com/DrewStephensCoding/TickerIO/blob/main/screenshots/files.png)](https://github.com/DrewStephensCoding/TickerIO/releases/download/v3.0.0/tickerio.apk)
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
