@@ -6,6 +6,7 @@
 *Made with love ❤️ by [Drew](https://github.com/DrewStephensCoding)*
 
 ***Try latest TickerIO app apk from below 👇***
+
 [![TickerIO](https://img.shields.io/badge/TickerIO-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/DrewStephensCoding/TickerIO/releases/download/v3.0.0/tickerio.apk)
 
 ## Built With 🛠
