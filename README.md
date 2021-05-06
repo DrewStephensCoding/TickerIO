@@ -17,6 +17,8 @@
 ## Join the Discussion
 If you'd like to contribute to this app, or offer ways of improvement to the developer, take a look at our [discussion board](https://github.com/DrewStephensCoding/TickerIO/discussions/1).
 
+## Motivation
+Motivation for this project came out of a minor necessity.  I was deployed overseas and needed something to quickly give me a variety of time and date formats for our aircraft inspections, while being user friendly.  The apps on my phone at the time didn't meet this expectation, and I was already learning Android development, so as an actual product I designed something I needed.  TickerIO was born.  If you have appreciated this project, or would like to help out, feel free to [buy me a coffee](https://www.buymeacoffee.com/drewcodesit)
 
 ## License
 ```
